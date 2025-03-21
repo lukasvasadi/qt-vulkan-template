@@ -1,7 +1,0 @@
---resource
-/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_VulkanTexture.qrc
---resource
-/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_VulkanTexture_copy.qrc
---resource
-/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/appqtvulkan_raw_qml_0.qrc
-/scenegraph/vulkantexture/Main.qml

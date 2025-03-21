@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/scenegraph/vulkanunderqml">/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/VulkanUnderQML</file>
-
-  </qresource>
-</RCC>

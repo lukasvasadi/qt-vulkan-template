@@ -1,5 +1,0 @@
-/home/lukasvasadi/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/lukasvasadi/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -DCMAKE_PREFIX_PATH=/home/lukasvasadi/Qt/6.6.3/gcc_64/lib/cmake -G Ninja -S /home/lukasvasadi/Code/Software/graphics/qtvulkan -B /home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug
--- Could NOT find XKB (missing: XKB_LIBRARY XKB_INCLUDE_DIR) (Required is at least version "0.5.0")
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: /home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug

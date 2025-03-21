@@ -1,5 +1,0 @@
-module VulkanTexture
-typeinfo appqtvulkan.qmltypes
-prefer :/scenegraph/vulkantexture/
-Main 254.0 Main.qml
-

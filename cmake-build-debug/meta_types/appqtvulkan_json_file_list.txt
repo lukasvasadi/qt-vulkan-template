@@ -1,2 +1,0 @@
-/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/appqtvulkan_autogen/include/../EWIEGA46WW/moc_vulkantextureitem.cpp.json
-/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/appqtvulkan_autogen/include/../EWIEGA46WW/moc_vulkantexturenode.cpp.json

@@ -1,0 +1,4 @@
+module VulkanUnderQML
+typeinfo vulkanunderqml.qmltypes
+prefer :/scenegraph/vulkanunderqml/
+

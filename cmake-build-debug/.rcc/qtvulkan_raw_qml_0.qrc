@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/QtVulkan/">
+    <file alias="main.qml">/home/lukasvasadi/Code/Software/graphics/qtvulkan/main.qml</file>
+  </qresource>
+</RCC>
+

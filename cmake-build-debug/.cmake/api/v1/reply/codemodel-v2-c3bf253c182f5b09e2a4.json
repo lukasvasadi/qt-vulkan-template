@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-91fcc3866313e4001ad4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qtvulkan",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-03b271b8f7944bfa886a.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-372036c60e526a689e8e.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-50c096dd63b33e0c82b4.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-083cd6b2246869eb3be9.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan-Debug-60c69bc176f44e60b44f.json",
+					"name" : "appqtvulkan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_autogen-Debug-fd2ec760b1f3eef06302.json",
+					"name" : "appqtvulkan_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_autogen_timestamp_deps-Debug-00de7fa34a1c321d3ec5.json",
+					"name" : "appqtvulkan_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_qmlimportscan-Debug-c52abfc7e44cdb28805a.json",
+					"name" : "appqtvulkan_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_qmllint-Debug-4393e8f537726b0e3eb1.json",
+					"name" : "appqtvulkan_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_qmllint_json-Debug-33464b7eb3e6c58d6743.json",
+					"name" : "appqtvulkan_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_qmllint_module-Debug-c415001a34b3fc2534fe.json",
+					"name" : "appqtvulkan_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_qmltyperegistration-Debug-e10b806a550d713996cd.json",
+					"name" : "appqtvulkan_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appqtvulkan_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appqtvulkan_tooling-Debug-fb7bc40a50416dbba363.json",
+					"name" : "appqtvulkan_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug",
+		"source" : "/home/lukasvasadi/Code/Software/graphics/qtvulkan"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

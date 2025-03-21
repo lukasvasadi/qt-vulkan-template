@@ -1,0 +1,28 @@
+{
+    "classes": [
+        {
+            "className": "VulkanTextureNode",
+            "object": true,
+            "qualifiedClassName": "VulkanTextureNode",
+            "slots": [
+                {
+                    "access": "private",
+                    "name": "render",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QSGTextureProvider"
+                },
+                {
+                    "access": "public",
+                    "name": "QSGSimpleTextureNode"
+                }
+            ]
+        }
+    ],
+    "inputFile": "vulkantexturenode.h",
+    "outputRevision": 68
+}

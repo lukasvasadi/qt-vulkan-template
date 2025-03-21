@@ -1,0 +1,14 @@
+-rootPath
+/home/lukasvasadi/Code/Software/graphics/qtvulkan
+-cmake-output
+-output-file
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.qt_plugins/Qt6_QmlPlugins_Imports_qtvulkan.cmake
+-importPath
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/QtVulkan
+-importPath
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug
+-importPath
+/home/lukasvasadi/Qt/6.6.3/gcc_64/./qml
+-qrcFiles
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_QtVulkan.qrc
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qtvulkan_raw_qml_0.qrc

@@ -1,0 +1,5 @@
+--resource
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_QtVulkan.qrc
+--resource
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qtvulkan_raw_qml_0.qrc
+/QtVulkan/main.qml

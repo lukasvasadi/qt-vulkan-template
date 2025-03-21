@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/scenegraph/vulkantexture/VulkanTexture">
+    <file alias="qmldir">/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/VulkanTexture/qmldir</file>
+  </qresource>
+</RCC>
+

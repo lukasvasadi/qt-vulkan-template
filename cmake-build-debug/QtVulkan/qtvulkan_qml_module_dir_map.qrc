@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtVulkan">/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/QtVulkan</file>
+
+  </qresource>
+</RCC>

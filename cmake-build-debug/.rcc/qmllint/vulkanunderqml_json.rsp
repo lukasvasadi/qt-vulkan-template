@@ -1,0 +1,14 @@
+--bare
+-I
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug
+-I
+/home/lukasvasadi/Qt/6.6.3/gcc_64/./qml
+--resource
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_VulkanUnderQML.qrc
+--resource
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/qmake_VulkanUnderQML_copy.qrc
+--resource
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/.rcc/vulkanunderqml_raw_qml_0.qrc
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/main.qml
+--json
+/home/lukasvasadi/Code/Software/graphics/qtvulkan/cmake-build-debug/vulkanunderqml_qmllint.json
